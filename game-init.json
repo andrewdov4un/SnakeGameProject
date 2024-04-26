@@ -1,0 +1,5 @@
+{
+    "num_players": 1,
+    "player_names": ["Player 1"],
+    "grid_size": 10
+}
